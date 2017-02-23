@@ -1,0 +1,29 @@
+#landing{
+  text-align: center;
+}
+
+body{
+  background-color: #BE29CF
+}
+
+.name{
+  font-size: 100px;
+}
+
+.description{
+  font-size: 50px;
+}
+
+#picture{
+  margin: auto;
+  height: 20vh;
+  width: 27vh
+}
+
+#highlights{
+  margin-top: 2vh;
+}
+
+#prettify{
+  padding: 0;
+}
